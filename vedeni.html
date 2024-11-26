@@ -37,7 +37,7 @@
     <script>
         async function fetchPlayerStatus() {
             try {
-                const response = await fetch("http://mc.starforge.cz:5281/api/players");
+                const response = await fetch("https://mc.starforge.cz:5281/api/players");
                 const data = await response.json();
 
                 const playerTable = document.getElementById("player-table-body");
