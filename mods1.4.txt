@@ -36,4 +36,4 @@ https://mediafilez.forgecdn.net/files/4858/160/biggerstacks-1.20.1-1.0.0-all.jar
 https://mediafilez.forgecdn.net/files/4584/655/advancednetherite-forge-2.0.2-1.20.1.jar,
 https://mediafilez.forgecdn.net/files/5207/771/%5B1.20.1%5D%20SecurityCraft%20v1.9.9.jar,
 https://mediafilez.forgecdn.net/files/4627/1/nocreeperexplosion-1.20.1-1.0.0.jar,
-https://api.papermc.io/v2/projects/velocity/versions/3.4.0-SNAPSHOT/builds/459/downloads/velocity-3.4.0-SNAPSHOT-459.jar
+https://objects.githubusercontent.com/github-production-release-asset-2e65be/626284929/5c7eac57-0410-4b2e-b5e3-d13ccd39bed1?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20250102%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250102T143606Z&X-Amz-Expires=300&X-Amz-Signature=a2a8327f3112b48128e120acb68b4b939e56e4fa78f16617f85cdccc789f42f8&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dbungeeforge-1.20.1.jar&response-content-type=application%2Foctet-stream
