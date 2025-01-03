@@ -36,5 +36,4 @@ https://mediafilez.forgecdn.net/files/5396/500/Bookshelf-Forge-1.20.1-20.1.11.ja
 https://mediafilez.forgecdn.net/files/4858/160/biggerstacks-1.20.1-1.0.0-all.jar,
 https://mediafilez.forgecdn.net/files/4584/655/advancednetherite-forge-2.0.2-1.20.1.jar,
 https://mediafilez.forgecdn.net/files/5207/771/%5B1.20.1%5D%20SecurityCraft%20v1.9.9.jar,
-https://mediafilez.forgecdn.net/files/4627/1/nocreeperexplosion-1.20.1-1.0.0.jar,
-https://github.com/caunt/BungeeForge/releases/download/v1.0.6/bungeeforge-1.20.1.jar
+https://mediafilez.forgecdn.net/files/4627/1/nocreeperexplosion-1.20.1-1.0.0.jar
