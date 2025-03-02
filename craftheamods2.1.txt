@@ -25,6 +25,5 @@ https://mediafilez.forgecdn.net/files/5659/871/resourcefullib-forge-1.20.1-2.1.2
 https://mediafilez.forgecdn.net/files/5810/712/SimpleStorageNetwork-1.20.1-1.11.3.jar,
 https://mediafilez.forgecdn.net/files/5764/972/travelersbackpack-forge-1.20.1-9.1.16.jar,
 https://mediafilez.forgecdn.net/files/4614/852/ironchest-1.20.1-14.4.4.jar,
-https://mediafilez.forgecdn.net/files/6255/102/create_enchantment_industry-1.3.0-preview1-for-create-6.0.0.jar,
 https://mediafilez.forgecdn.net/files/6212/636/XaerosWorldMap_1.39.4_Forge_1.20.jar,
 https://mediafilez.forgecdn.net/files/6184/430/Xaeros_Minimap_25.1.0_Forge_1.20.jar
