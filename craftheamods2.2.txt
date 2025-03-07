@@ -27,4 +27,5 @@ https://mediafilez.forgecdn.net/files/5764/972/travelersbackpack-forge-1.20.1-9.
 https://mediafilez.forgecdn.net/files/4614/852/ironchest-1.20.1-14.4.4.jar,
 https://mediafilez.forgecdn.net/files/6212/636/XaerosWorldMap_1.39.4_Forge_1.20.jar,
 https://mediafilez.forgecdn.net/files/6184/430/Xaeros_Minimap_25.1.0_Forge_1.20.jar,
-https://mediafilez.forgecdn.net/files/6126/934/fpsboostremake-1.5-forge-1.20.1.jar
+https://mediafilez.forgecdn.net/files/6126/934/fpsboostremake-1.5-forge-1.20.1.jar,
+https://mediafilez.forgecdn.net/files/6124/934/tctcore-1.6-forge-1.20.1.jar
